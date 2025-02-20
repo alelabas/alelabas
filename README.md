@@ -1,5 +1,5 @@
 <h1>👋Hello, my name's Alejandro.</h1>
-<p>I'm a software developer focused on front-end development with knowledge on the back-end and databases.</p>
+**`Full Stack developer (React.js/Node.js/Express.js/Next.js)`**
 
 <h2>My Studies</h2>
 <h3>Associate's degree in Computer Science</h3>
