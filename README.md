@@ -1,5 +1,5 @@
 <h1>👋Hello, my name's Alejandro.</h1>
-<h2>Full Stack developer (React.js/Node.js/Express.js/Next.js) </h2>
+<h3>Full Stack developer (React.js/Node.js/Express.js/Next.js) </h3>
 
 <h2>My Studies</h2>
 <h3>Associate's degree in Computer Science</h3>
