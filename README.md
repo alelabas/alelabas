@@ -1,33 +1,73 @@
-<h1>👋Hello, my name's Alejandro.</h1>
-<h3>Full Stack Developer (React/Next/.NET) </h3>
+# 👋 Hi, I'm Alejandro Labastie  
 
-<h2>My Studies</h2>
-<h3>Associate's degree in Computer Science</h3>
-<hr>
-<p>During this course, i've developed the skills to work with development teams, using tools like Teams and Git. Throught the program i've had the chance to work on multiple teams, having no problem and being able to complete every assignment. i've learnt the basis and fundamentals of programming using C and C++, among other technologies and i've also learned another scope to development, business perspectives and planifications, agile methodologies, analysis and design</p>
+🚀 **Full Stack Engineer** from Buenos Aires, Argentina.  
+Passionate about building scalable applications with **React** and **.NET**, and constantly seeking growth through ambitious projects.  
 
-<h2>Front-end Stack</h2>
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src= "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alejandro-labastie)  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail)](mailto:labastiealejandro@gmail.com)  
 
-<h2>Back-end Stack</h2>
-<span>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+---
 
-<h2>Other Technologies</h2>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</span>
-<!---
-alelabas/alelabas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧑‍💻 About Me  
+- 🌱 Currently pursuing a **Bachelor’s Degree in Computer Science** at UADE.  
+- 🎓 Holder of an **Associate’s Degree in Computer Science** (UTN).  
+- 💼 Freelance experience developing landing pages with SEO optimization (achieved **89/100 score** and **90/100 Lighthouse rating**) and driving organic leads.  
+- 🔥 Motivated to join ambitious projects and continue learning cutting-edge technologies.  
+
+---
+## 📈 Experience  
+**Freelance Full Stack Developer – Overspeed Rentals LLC (12/2024 – 06/2025)**  
+- Developed landing page with **100+ active users** and **50+ organic leads** with a **10% conversion rate**.  
+- Performed SEO optimization achieving **89/100 score** and **90/100 Lighthouse rating**.
+
+---
+
+## 🛠️ Tech Stack  
+
+### Frontend  
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### Backend  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+
+### Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-1d1d1d?style=for-the-badge&logo=n8n&logoColor=orange)  
+
+---
+
+## 📚 Education  
+- 🎓 **Bachelor’s Degree in Computer Science** (2025 – Present)  
+  Universidad Argentina de la Empresa (UADE), Buenos Aires  
+
+- 🎓 **Associate’s Degree in Computer Science** (2023 – 2024)  
+  Universidad Tecnológica Nacional (UTN), Buenos Aires  
+
+---
+
+## 🌍 Languages  
+- 🇬🇧 English (C2)  
+- 🇪🇸 Spanish (Native)  
+
+---
+
+## 📫 Get in Touch  
+- 📧 [labastiealejandro@gmail.com](mailto:labastiealejandro@gmail.com)  
+- 💼 [LinkedIn Profile](https://linkedin.com/in/alejandro-labastie)  
+
+---
+✨ Always eager to improve my skills and work on ambitious projects!
