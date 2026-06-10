@@ -1,73 +1,199 @@
-# 👋 Hi, I'm Alejandro Labastie  
+<div align="center">
 
-🚀 **Full Stack Engineer** from Buenos Aires, Argentina.  
-Passionate about building scalable applications with **React** and **.NET**, and constantly seeking growth through ambitious projects.  
+<!-- ⚠️ Find & replace "alelabas" with your real GitHub username for the stats widgets to work -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alejandro-labastie)  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail)](mailto:labastiealejandro@gmail.com)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alejandro%20Labastie&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%86%92%20AI%20Engineering&descAlignY=55&descSize=20" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Product-minded+Full+Stack+Engineer;React+%2B+React+Native+%7C+.NET+8+%7C+GCP;Shipped+a+0%E2%86%921+app+to+both+app+stores;Building+with+LLMs+%26+the+Claude+API" alt="Typing SVG" />
+</a>
 
-## 🧑‍💻 About Me  
-- 🌱 Currently pursuing a **Bachelor’s Degree in Computer Science** at UADE.  
-- 🎓 Holder of an **Associate’s Degree in Computer Science** (UTN).  
-- 💼 Freelance experience developing landing pages with SEO optimization (achieved **89/100 score** and **90/100 Lighthouse rating**) and driving organic leads.  
-- 🔥 Motivated to join ambitious projects and continue learning cutting-edge technologies.  
+<br/>
 
----
-## 📈 Experience  
-**Freelance Full Stack Developer – Overspeed Rentals LLC (12/2024 – 06/2025)**  
-- Developed landing page with **100+ active users** and **50+ organic leads** with a **10% conversion rate**.  
-- Performed SEO optimization achieving **89/100 score** and **90/100 Lighthouse rating**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-labastie)
+[![Email](https://img.shields.io/badge/Email-labastiealejandro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labastiealejandro@gmail.com)
+[![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-74ACDF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open to Work](https://img.shields.io/badge/Open_to-Remote_%26_Hybrid-2ea44f?style=for-the-badge&logo=target&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧬 About Me
 
-### Frontend  
-![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+```typescript
+const alejandro = {
+  role: "Full Stack Engineer → AI Engineering",
+  company: "Accenture",
+  location: "Buenos Aires, Argentina 🇦🇷",
+  languages: { spanish: "native", english: "C2" },
 
-### Backend  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+  currentFocus: ["LLM integration", "Claude API", "AI-assisted dev workflows"],
+  funFact: "Shipped a marketplace app to BOTH app stores in 5 months — solo 🚀",
 
-### Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-1d1d1d?style=for-the-badge&logo=n8n&logoColor=orange)  
+  askMeAbout: [".NET 8", "React Native", "GCP", "end-to-end product ownership"],
+  lookingFor: "Ambitious projects in fintech & startups",
+};
+```
+
+- 🏢 **Packaged App Developer Associate @ Accenture** — building enterprise apps across the full SDLC
+- ⛵ **Founding Developer @ ReNauticos** — took a 0→1 marketplace from design to **App Store + Google Play**
+- 🤖 Transitioning into **AI Engineering**: LLM integration, prompt engineering, Anthropic Claude API
+- 🎓 University Technical Degree in Programming — **UTN** (2023–2024)
 
 ---
 
-## 📚 Education  
-- 🎓 **Bachelor’s Degree in Computer Science** (2025 – Present)  
-  Universidad Argentina de la Empresa (UADE), Buenos Aires  
+## 💼 Experience
 
-- 🎓 **Associate’s Degree in Computer Science** (2023 – 2024)  
-  Universidad Tecnológica Nacional (UTN), Buenos Aires  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Accenture
+**Packaged App Developer Associate**
+`Jan 2026 – Present` · Buenos Aires
+
+- Ship enterprise apps for clients across industries — full SDLC: design → implementation → production handoff
+- Backend services in **C# / .NET 8** + **ASP.NET Core Web API**
+- REST APIs consumed by **React + TypeScript** frontends
+- Cross-functional **Agile/Scrum** teams with international stakeholders (English)
+
+</td>
+<td width="50%" valign="top">
+
+### ⛵ ReNauticos
+**Founding Developer** *(sole engineer)*
+`Aug 2025 – Dec 2025` · Buenos Aires
+
+- Owned a **0→1 marketplace mobile app**: live on **Apple App Store & Google Play in 5 months**
+- Cross-platform **React Native** app — auth, navigation, listings, user-to-user contact
+- **.NET / ASP.NET Core REST API** on **GCP** (Cloud Run, Cloud SQL, Cloud Storage)
+- Managed full release lifecycle: app review, store assets, post-launch updates
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏎️ Overspeed Rentals LLC
+**Freelance Full Stack Developer**
+`Dec 2024 – Jun 2025` · Remote
+
+- Developed a landing page reaching **100+ active users** and generating **50+ organic leads** with a **10% conversion rate**
+- Performed SEO optimization achieving an **89/100 SEO score** and a **90/100 Lighthouse rating**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Languages  
-- 🇬🇧 English (C2)  
-- 🇪🇸 Spanish (Native)  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,html,css&theme=dark" />
+
+### Cloud, Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,git,github&theme=dark" />
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🤖 AI & Tooling
+![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=flat-square&logo=openaigym&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=flat-square&logo=lightning&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Get in Touch  
-- 📧 [labastiealejandro@gmail.com](mailto:labastiealejandro@gmail.com)  
-- 💼 [LinkedIn Profile](https://linkedin.com/in/alejandro-labastie)  
+## 🚀 Featured Project
+
+<div align="center">
+
+### ⛵ ReNauticos — Nautical Marketplace
+
+*From zero to two app stores. One engineer. Five months.*
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   📱 React Native (iOS + Android)  ──────►  Single codebase    │
+│            │                                                    │
+│            ▼                                                    │
+│   🔌 .NET / ASP.NET Core REST API                               │
+│            │                                                    │
+│            ▼                                                    │
+│   ☁️  Google Cloud Platform                                     │
+│       ├── Cloud Run      → scalable API hosting                 │
+│       ├── Cloud SQL      → relational data                      │
+│       └── Cloud Storage  → media & assets                       │
+│                                                                 │
+│   🏪 Shipped to: App Store ✅  ·  Google Play ✅                │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Highlights:** authentication · navigation · service listings · user-to-user contact flows · full store release lifecycle (review, assets, post-launch updates)
 
 ---
-✨ Always eager to improve my skills and work on ambitious projects!
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alelabas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelabas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alelabas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alelabas&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇪🇸 Spanish | Native |
+| 🇬🇧 English | C2 — Proficient |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm open to **remote and hybrid roles** in **fintech and startups** — especially where AI meets product.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Labastie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-labastie)
+[![Email](https://img.shields.io/badge/Email-Say_hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labastiealejandro@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=alelabas&style=for-the-badge&color=36BCF7" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+
+</div>
